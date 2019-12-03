@@ -4,10 +4,4 @@
 
 disp 'Hello from GitHub' 
 
-X = 100;
 
-Z = X*40;
-
-Y = Z/40 * 100;
-
-Y-X
